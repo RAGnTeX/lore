@@ -1,3 +1,0 @@
-# lore
-
-heyyyy

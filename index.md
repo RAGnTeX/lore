@@ -4,7 +4,7 @@ title:  "From PDFs to Presentations: How We Used GenAI to Auto-Generate Presenta
 date:   2025-04-18 21:33:10 +0200
 categories: RAGnTeX description
 ---
-<img src="/lore/assets/images/long_logo.png" alt="logo" width="300"/>
+<img src="/lore/assets/images/long_logo.png" alt="logo" width="900"/>
 
 > "I need a presentation about Retrieval-Augmented Generation."
 > What if an AI could build it for you?
