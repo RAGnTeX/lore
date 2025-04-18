@@ -21,12 +21,10 @@
 # title: RAGnTeX Lore
 # email: aershova096@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ✨ About RAGnTeX
-RAGnTeX is a generative AI tool that transforms collections of PDF documents into clean, structured LaTeX Beamer presentations. By combining retrieval-augmented generation (RAG) with large language models, RAGnTeX automates the tedious process of slide creation—extracting key ideas, structuring content, and even suggesting visuals.
-
-Give it a topic, and it finds relevant sources, distills the most important points, and outputs a professional-looking slide deck. Perfect for researchers, students, or anyone who wants to go from “reading papers” to “presenting insights” without the manual grind.
-
-Built with ❤️ using Chroma, Gemini 2.0 Flash, and a sprinkle of LaTeX sorcery.
+  About RAGnTeX
+  RAGnTeX is a generative AI tool that transforms collections of PDF documents into clean, structured LaTeX Beamer presentations. By combining retrieval-augmented generation (RAG) with large language models, RAGnTeX automates the tedious process of slide creation—extracting key ideas, structuring content, and even suggesting visuals.
+  Give it a topic, and it finds relevant sources, distills the most important points, and outputs a professional-looking slide deck. Perfect for researchers, students, or anyone who wants to go from “reading papers” to “presenting insights” without the manual grind.
+  Built with using Chroma, Gemini 2.0 Flash, and a sprinkle of LaTeX sorcery.
 baseurl: "/lore" # the subpath of your site, e.g. /blog
 url: "https://ragntex.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
