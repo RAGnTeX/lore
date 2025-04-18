@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RAGnTeX Lore
-email: aershova096@gmail.com
+# title: RAGnTeX Lore
+# email: aershova096@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ✨ About RAGnTeX
+RAGnTeX is a generative AI tool that transforms collections of PDF documents into clean, structured LaTeX Beamer presentations. By combining retrieval-augmented generation (RAG) with large language models, RAGnTeX automates the tedious process of slide creation—extracting key ideas, structuring content, and even suggesting visuals.
+
+Give it a topic, and it finds relevant sources, distills the most important points, and outputs a professional-looking slide deck. Perfect for researchers, students, or anyone who wants to go from “reading papers” to “presenting insights” without the manual grind.
+
+Built with ❤️ using Chroma, Gemini 2.0 Flash, and a sprinkle of LaTeX sorcery.
 baseurl: "/lore" # the subpath of your site, e.g. /blog
 url: "https://ragntex.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 theme: minima
