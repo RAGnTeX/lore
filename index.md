@@ -1,14 +1,10 @@
 ---
-layout: default
-title: "Welcome to Lore"
----
----
 layout: post
 title:  "From PDFs to Presentations: How We Used GenAI to Auto-Generate Presentation Slides"
 date:   2025-04-18 21:33:10 +0200
 categories: RAGnTeX description
 ---
-
+![](/lore/assets/images/long_logo.png)
 > "I need a presentation about Retrieval-Augmented Generation."
 > What if an AI could build it for you?
 
