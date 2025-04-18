@@ -4,3 +4,7 @@
 
 layout: home
 ---
+Welcome to the **Lore** blog! ✨
+Here you'll find updates, ideas, and GenAI thoughts.
+
+Check out the latest post below ⬇️
