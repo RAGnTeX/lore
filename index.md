@@ -120,3 +120,13 @@ As a result, not only do you get a well-structured summary presentation covering
 This project proved that even with lightweight tools, it's possible to go from "I need a presentation about X" to a structured, informative, AI-generated slide deck — all in a few minutes.
 
 In a world where information is vast but time is limited, our GenAI-powered system stands ready to empower users to turn complexity into clarity. Are you prepared to embrace the future of presentations?
+
+## Conclusion
+
+Thank you for reading! We hope you enjoyed the content.
+
+---
+
+### Authors:
+- [**Anna Ershova**](https://github.com/AnnaErsh)
+- [**Kajetan Niewczas**](https://github.com/KajetanNiewczas)
