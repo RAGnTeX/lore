@@ -43,6 +43,13 @@ We use a lightweight Gemini 2.0 Flash to retrieve content and mold it into a str
 Here's a sneak peek at the presentation structure we provide:
 
 ```latex
+\documentclass{beamer}
+\usetheme{Madrid}
+
+\title{[Presentation Title]}
+\author{AI-generated}
+\date{\today}
+
 \begin{document}
 
 \frame{\titlepage}
