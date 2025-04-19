@@ -43,56 +43,58 @@ We use a lightweight Gemini 2.0 Flash to retrieve content and mold it into a str
 Here's a sneak peek at the presentation structure we provide:
 
 ```latex
-\documentclass{beamer}
-\usetheme{Madrid}
-
-\title{[Presentation Title]}
-\author{AI-generated}
-\date{\today}
-
 \begin{document}
 
 \frame{\titlepage}
 
 \begin{frame}
 \frametitle{Introduction}
-- What's the topic?
-- Why is it important?
+\begin{itemize}
+\item What's the topic?
+\item Why is it important?
+\end{itemize}
 \end{frame}
 
 \begin{frame}
 \frametitle{Core Idea 1}
-- Key point 1
-- Key point 2
+\begin{itemize}
+\item Key point 1
+\item Key point 2
+\end{itemize}
 \end{frame}
 
 \begin{frame}
 \frametitle{Core Idea 2}
 \begin{columns}
 \begin{column}{0.5\linewidth}
-- Key point 1
-- Key point 2
+\begin{itemize}
+\item Key point 1
+\item Key point 2
+\end{itemize}
 \end{column}
 \begin{column}{0.5\linewidth}
-\center{\includegraphics[width=1\linewidth]{pdf_images/image} \\ image caption}
+\center{\includegraphics[width=1\linewidth]{gfx/image} \\ image caption}
 \end{column}
 \end{columns}
 \end{frame}
 
 \begin{frame}
 \frametitle{Core Idea 3}
-\center{\includegraphics[width=1\linewidth]{pdf_images/image} \\ image caption\\}
-
-- Key point 1
-- Key point 2
+\center{\includegraphics[width=1\linewidth]{gfx/image} \\ image caption\\}
+\begin{itemize}
+\item Key point 1
+\item Key point 2
+\end{itemize}
 \end{frame}
 
 ...
 
 \begin{frame}
 \frametitle{Summary}
-- Key takeaway 1
-- Key takeaway 2
+\begin{itemize}
+\item Key takeaway 1
+\item Key takeaway 2
+\end{itemize}
 \end{frame}
 
 \end{document}
