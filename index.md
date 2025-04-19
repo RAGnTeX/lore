@@ -80,14 +80,14 @@ Here's a sneak peek at the presentation structure we provide:
 \end{itemize}
 \end{column}
 \begin{column}{0.5\linewidth}
-\center{\includegraphics[width=1\linewidth]{gfx/image} \\ image caption}
+\center{\includegraphics[height=1.0\textheight, width=1.0\textwidth, keepaspectratio]{gfx/image} \\ image caption}
 \end{column}
 \end{columns}
 \end{frame}
 
 \begin{frame}
 \frametitle{Core Idea 3}
-\center{\includegraphics[width=1\linewidth]{gfx/image} \\ image caption\\}
+\center{\includegraphics[height=0.5\textheight, width=0.8\textwidth, keepaspectratio]{gfx/image} \\ image caption\\}
 \begin{itemize}
 \item Key point 1
 \item Key point 2
